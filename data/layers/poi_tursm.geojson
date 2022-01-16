@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "poi_tursm_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "0", "type": "pt_camp", "name": "Обійстя Козака з Лугу Сашка", "type_ua": "Послуги" }, "geometry": { "type": "Point", "coordinates": [ 31.415731191321349, 49.933367137855832 ] } },
+{ "type": "Feature", "properties": { "id": "1", "type": "pt_museum", "name": "Плановий Бурчацький карєзнавчий музей", "type_ua": "Музей" }, "geometry": { "type": "Point", "coordinates": [ 31.429945605935867, 49.869837614989144 ] } },
+{ "type": "Feature", "properties": { "id": "2", "type": "pt_well", "name": "Рожена криниця", "type_ua": "Криниця" }, "geometry": { "type": "Point", "coordinates": [ 31.420752618330525, 49.880038775325083 ] } },
+{ "type": "Feature", "properties": { "id": "3", "type": "pt_shop", "name": "Магазин", "type_ua": "Магазин" }, "geometry": { "type": "Point", "coordinates": [ 31.41045982856636, 49.925768137023134 ] } },
+{ "type": "Feature", "properties": { "id": "4", "type": "pt_beach", "name": "Пляж", "type_ua": "Пляж" }, "geometry": { "type": "Point", "coordinates": [ 31.44163544484206, 49.865288365452066 ] } },
+{ "type": "Feature", "properties": { "id": "5", "type": "pt_observ", "name": "Оглядовий майданчик", "type_ua": "Місце" }, "geometry": { "type": "Point", "coordinates": [ 31.43474515794799, 49.867258456466807 ] } },
+{ "type": "Feature", "properties": { "id": "6", "type": "pt_beach", "name": "Пляж", "type_ua": "Пляж" }, "geometry": { "type": "Point", "coordinates": [ 31.437153317975287, 49.866823031036063 ] } },
+{ "type": "Feature", "properties": { "id": "7", "type": "pt_tank", "name": "Пам'ятник танкістам Букринського плацдарму", "type_ua": "Пам'ятник" }, "geometry": { "type": "Point", "coordinates": [ 31.388728792669564, 49.91149715008617 ] } },
+{ "type": "Feature", "properties": { "id": "8", "type": "pt_zatul", "name": "Пам'ятник В. І. Затуливітеру", "type_ua": "Пам'ятник" }, "geometry": { "type": "Point", "coordinates": [ 31.433738139026218, 49.869585320110069 ] } },
+{ "type": "Feature", "properties": { "id": "9", "type": "pt_mon206", "name": "Пам'ятник воїнам 206-ї стрілкової дивізії", "type_ua": "Пам'ятник" }, "geometry": { "type": "Point", "coordinates": [ 31.432807224975345, 49.870665851543826 ] } }
+]
+}

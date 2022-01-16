@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "poi_arch_point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "type": "p_arch", "name": "Поселення трипільської культури", "p_id": 41, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.420696883046677, 49.93251600151315 ] } },
+{ "type": "Feature", "properties": { "id": 1, "type": "p_arch", "name": "Могильник зарубинецької культури", "p_id": 42, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.423164391441158, 49.926824224638743 ] } },
+{ "type": "Feature", "properties": { "id": 2, "type": "p_arch", "name": "Поселення багатошарове", "p_id": 43, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.41924668074466, 49.922755272044 ] } },
+{ "type": "Feature", "properties": { "id": 3, "type": "p_arch", "name": "Поселення багатошарове", "p_id": 44, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.415307325237674, 49.915320185672392 ] } },
+{ "type": "Feature", "properties": { "id": 4, "type": "p_arch", "name": null, "p_id": 45, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.41301297532701, 49.911138752483517 ] } },
+{ "type": "Feature", "properties": { "id": 5, "type": "p_arch", "name": "Поселення багатошарове", "p_id": 47, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.400783657406969, 49.909270928519391 ] } },
+{ "type": "Feature", "properties": { "id": 6, "type": "p_arch", "name": "Поселення багатошарове", "p_id": 49, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.417190423749251, 49.898843238977605 ] } },
+{ "type": "Feature", "properties": { "id": 7, "type": "p_arch", "name": "Поселення багатошарове", "p_id": 51, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.420978265582885, 49.890769990399079 ] } },
+{ "type": "Feature", "properties": { "id": 8, "type": "p_arch", "name": "Поселення багатошарове, могильник давньоруський", "p_id": 52, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.422276954211565, 49.886879289943501 ] } },
+{ "type": "Feature", "properties": { "id": 9, "type": "p_arch", "name": "Городище давньоруське", "p_id": 53, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.417774833632155, 49.886488808064797 ] } },
+{ "type": "Feature", "properties": { "id": 10, "type": "p_arch", "name": "Поселення багатошарове", "p_id": 54, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.426281244149987, 49.882081722157622 ] } },
+{ "type": "Feature", "properties": { "id": 11, "type": "p_arch", "name": "Поселення зарубинецького та давньоруського часу", "p_id": 55, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.428792042165426, 49.87941775046248 ] } },
+{ "type": "Feature", "properties": { "id": 12, "type": "p_arch", "name": "Поселення ранньозалізного віку та давньоруське", "p_id": 57, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.418164440220753, 49.880477777749938 ] } },
+{ "type": "Feature", "properties": { "id": 13, "type": "p_arch", "name": "Поселення зарубинецької культури", "p_id": 59, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.439408821704856, 49.866758389636928 ] } },
+{ "type": "Feature", "properties": { "id": 14, "type": "p_arch", "name": "Поселення багатошарове", "p_id": 60, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Point", "coordinates": [ 31.444224792036184, 49.859475138180798 ] } }
+]
+}
