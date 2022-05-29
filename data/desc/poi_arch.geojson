@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "name": "poi_arch",
+    "crs": { 
+        "type": "name", 
+        "properties": { 
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84" 
+            } 
+        },
+    "features": [
+        { "type": "Feature", "properties": { "id": 0, "type": "p_arch", "name": "Поселення та могильники трипільської культури", "p_id": 41, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Text", "coordinates": null } },
+        { "type": "Feature", "properties": { "id": 1, "type": "p_arch", "name": "Поселення та могильники зарубинецької культури", "p_id": 42, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Text", "coordinates": null } },
+        { "type": "Feature", "properties": { "id": 2, "type": "p_arch", "name": "Багатошарові поселення ", "p_id": 44, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Text", "coordinates": null } },
+        { "type": "Feature", "properties": { "id": 3, "type": "p_arch", "name": "Давньоруські могильники та городища", "p_id": 52, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Text", "coordinates": null } },
+        { "type": "Feature", "properties": { "id": 4, "type": "p_arch", "name": "Поселення зарубинецького, ранньозалізного та давньоруського часу", "p_id": 55, "type_ua": "Пам'ятка археології" }, "geometry": { "type": "Text", "coordinates": null } }
+    ]
+}
