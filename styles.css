@@ -10,7 +10,7 @@ p{
 
 @font-face {
     font-family: miroslav;
-    src: url(/fonts/mr_miroslav.otf);
+    src: url(./fonts/mr_miroslav.otf);
 }
 
 .leaflet-sidebar-content::-webkit-scrollbar{
